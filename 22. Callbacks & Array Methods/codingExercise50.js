@@ -1,0 +1,1 @@
+const allEvens = arrNum => arrNum.every(num => num % 2 === 0);
